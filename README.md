@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @talwor (Taylor)
-- 👀 I’m interested in ... (stuff, idk yet haha..)
-- 🌱 I’m currently learning ... (CS!! and Physics (ew))
-- 💞️ I’m looking to collaborate on ... (idk yet :o)
+- 👋 Hi, I’m @talwor 
+- 👀 I’m interested in ... (game)
+- 🌱 I’m currently learning ... (stuff)
+- 💞️ I’m looking to collaborate on ... (idk yet lol)
 - 📫 How to reach me ... (here i guesss)
 
 <!---
